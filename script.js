@@ -173,7 +173,7 @@ function renderCategories() {
 
           <a href="https://wa.me/917075179903?text=Hi, interested in ${product.name}" 
              class="btn btn-info" target="_blank">
-             Deal Now
+              <button class="btn btn-primary">Deal Now</button>
           </a>
         </div>
       `;
