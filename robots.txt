@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ms-infotech.vercel.app/sitemap.xml
